@@ -1,2 +1,2 @@
-# ML-Assignment-Matplotlib
-ML Assignment Matplotlib
+# ML-Assignment
+ML Assignments
